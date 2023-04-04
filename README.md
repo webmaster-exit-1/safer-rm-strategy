@@ -1,5 +1,7 @@
 # A safer `rm -rf` strategy
 
+This strategy works all in the background. `rm -rf` will appear to work just as normal. Just now; you have the added bonus to save what you `rm -rf`'d.
+
 Create a trash directory:
 
 ```bash
