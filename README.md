@@ -3,7 +3,7 @@ It sucks, right? \
 Well, this could help save you when it happens again. \
 Introducing: A safer `rm` strategy.
 
-This strategy works all in the background. `rm -rf` will appear to work just as normal. Just now; you have the added bonus to undo what you `rm -rf`'d. \
+This strategy works all in the background. `rm` will appear to work just as normal. Just now; you have the added bonus to undo what you `rm`'d. \
 (times and dates are just suggestions)
 
 Create a trash directory:
