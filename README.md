@@ -1,7 +1,8 @@
 # Have you ever accidentally `rm`'d something you didn't mean too?
 It sucks, right? \
 Well, this could help save you when it happens again. \
-Introducing: A safer `rm` strategy.
+Introducing: A safer `rm` strategy. \
+This will automatically move the files and folders you `rm` to a hidden trash folder and hold them there until a certain amount of time has passed then auto delete the files and folders. Plus it will periodically notify you that you may have files or folders you want to save before they are perminatly deleted.
 
 This strategy works all in the background. `rm` will appear to work just as normal. Just now; you have the added bonus to undo what you `rm`'d. \
 (times and dates are just suggestions)
