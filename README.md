@@ -1,4 +1,7 @@
-# A safer `rm -rf` strategy
+# Have you ever accidentally `rm`'d something you didn't mean too?
+It sucks, right? \
+Well, this could help save you when it happens again. \
+Introducing: A safer `rm` strategy.
 
 This strategy works all in the background. `rm -rf` will appear to work just as normal. Just now; you have the added bonus to undo what you `rm -rf`'d. \
 (times and dates are just suggestions)
